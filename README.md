@@ -65,6 +65,8 @@ python run_server.py --production
 
 Open the dashboard at `http://localhost:8080/dashboard`.
 
+![Server dashboard](docs/screenshots/server-dashboard.png)
+
 ### Configuration (`config.yaml`)
 
 | Section | Key | Meaning |
@@ -107,6 +109,8 @@ python run_agent.py
 # install as a background service
 python run_agent.py --install-service
 ```
+
+![Agent terminal](docs/screenshots/agent-terminal.png)
 
 ### Configuration (`agent.yaml`)
 
